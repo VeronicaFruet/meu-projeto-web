@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+}
+
+#profile-pic {
+    width: 150px; /* Ajuste conforme necessário */
+    height: auto;
+    border-radius: 50%; /* Torna a imagem redonda */
+}
+
+ul {
+    list-style-type: none; /* Remove marcadores padrão */
+    padding: 0; /* Remove padding */
+}
+
+li {
+    margin: 5px 0; /* Espaço entre os itens da lista */
+}
+
+p {
+    margin: 15px 0;
+}
